@@ -1,6 +1,6 @@
-name: "Jake's Journal"
+name: "DCHC University Student Data"
 navbar:
-  title: "Jake's Journal"
+  title: "DCHC University Student Data"
   left:
     - text: "Home"
       href: index.html
